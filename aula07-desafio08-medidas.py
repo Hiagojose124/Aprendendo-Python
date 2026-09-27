@@ -1,3 +1,8 @@
+#Desafio 08 - Conversor de Medidas
+#Curso em video - Python
+#Resolução:converte metros para centímetros e minímetros
+
+
 Medida = float(input('Uma distância em metros: '))
 cm = medida * 100
 mm = medida * 1000
