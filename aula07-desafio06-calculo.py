@@ -1,3 +1,7 @@
+#Desafio 06 - Dobro, triplo e Raiz Quadrada
+#Curso em video - Python
+#Resolução: calcula dobro, triplo e Raiz Quadrada
+
 n = float(input('Digite um número: '))
 dobro = n * 2
 triplo = n * 3
