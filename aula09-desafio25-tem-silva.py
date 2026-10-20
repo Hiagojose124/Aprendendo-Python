@@ -3,4 +3,4 @@
 #Solução: verifica se o nome contém "SILVA"
 
 nome = str(input('Qual é seu nome completo? ')).strip()
-print('Seu nome tem SILVA? {}'.format('Silva' in nome.lower)))
+print('Seu nome tem SILVA? {}'.format('silva' in nome.lower()))
