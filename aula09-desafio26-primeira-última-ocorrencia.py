@@ -1,6 +1,6 @@
-#Desafio 026 - Prineira e última ocorrência de uma string
+#Desafio 026 - Primeira e última ocorrência de uma string
 #Curso em Video - Python
-#Solução: conta e mostra posições de latra 'A' em uma frase
+#Solução: conta e mostra posições de letra 'A' em uma frase
 
 
 frase = str(input('Digite uma frase: ')).upper().strip()
