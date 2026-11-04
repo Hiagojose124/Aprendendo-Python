@@ -2,10 +2,10 @@
 #Curso em Video -python
 #Solução: Verifica se um número inteiro é PAR ou ÌMPAR
 
-número = int(input('Me diga im número qualquer: '))
-resultado = número % 2
+numero = int(input('Me diga im numero qualquer: '))
+resultado = numero % 2
 if resultado == 0:
-  print('O número {} é PAR'.format(número))
+  print('O numero {} é PAR'.format(numero))
 else:
-  print('O número {} é ÌMPAR'.format(número))
+  print('O numero {} é ÌMPAR'.format(numero))
   
